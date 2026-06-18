@@ -1,0 +1,6 @@
+{
+  "name": "Linear Algebra Circuit Analyzer & Simulator",
+  "description": "An interactive schematic canvas for college linear algebra and circuit theory. Supports drag-and-drop R, L, C, and voltage/current sources, node network highlighting, and real-time step-by-step Gaussian Elimination for solving the Modified Nodal Analysis (MNA) matrix equations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
